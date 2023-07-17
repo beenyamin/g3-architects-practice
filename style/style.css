@@ -13,6 +13,7 @@
 .text-color{
   color:#727272;
 
+
 }
 
 /* header style */
@@ -137,7 +138,7 @@ main{
    font-weight: 700;
 
 }
- /* features section */
+ /* fact section */
 
  
  
@@ -161,22 +162,35 @@ main{
 }
 
 
+/* feature-section  */
+.ft{
+    display: flex;
+    margin: 50px;
+}
+
+/* .ft-contane{
+    width: 400px;
+    height: 300px; */
+}
+.section-title{
+    color: var(--dark-01, #131313);
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.ft-img{
+    width: 500px;
+   height: 700px;
+
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.features-card{
+ 
+}
 
 
 
